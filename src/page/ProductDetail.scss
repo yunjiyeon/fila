@@ -1,0 +1,55 @@
+.detail-img {
+  width: 100%; 
+}
+
+.detail-titleWrap{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+  .detail-title {
+    font-size: 1.2rem;
+    font-weight: 900;
+  }
+  .like {
+    font-size: 1.4rem;
+    .heartFill{
+      color: #cd3639;
+    }
+  }
+}
+
+.detail-price{
+  font-size: 1.1rem;
+  font-weight: 900;
+  margin: 50px 0 30px 0;
+  color: #cd3639;
+}
+
+.new, .event {
+  margin-bottom: 5px;
+  font-size: 0.8rem;
+  color: var(--color-gray);
+}
+
+
+.detail-dropdown {
+  margin: 20px 0 10px 0 ;
+  & > * {
+    width: 100%;
+  }
+}
+
+button{
+  width: 100%;
+}
+
+.btn:hover {
+  color: #ffffff;
+  background-color: #000000;
+  border-color: none;
+}
+
+.inner {
+  height: 100vh;
+}
