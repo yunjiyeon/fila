@@ -1,9 +1,9 @@
 # MINI PROJECT | FILA
 > React 기반 반응형 쇼핑몰 홈페이지 개발
 <br>
+
 * 기여도 : 개인 100% <br> 
 * 기간 : 2022.12
-<br>
 
 ## 📍 Overview
 
