@@ -4,7 +4,6 @@ import React from "react";
 import { FaSearch } from "react-icons/fa";
 import { BiLogInCircle, BiLogOutCircle } from "react-icons/bi";
 import { Link, useNavigate } from "react-router-dom";
-import { BsCart4, BsHeart } from "react-icons/bs";
 import { VscMenu, VscChromeClose} from "react-icons/vsc";
 import "./Navbar.scss"; 
 import { useState } from "react";
